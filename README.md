@@ -1,2 +1,3 @@
 # Swift
-Learning Swift Programing Lnaguage
+Learning Swift Programing Language
+will make a project soon
